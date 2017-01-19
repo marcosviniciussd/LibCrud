@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+
 def cadastrar(nomes):
     print("[ CADASTRANDO NOMES ]")
     print("Digite o nome: ")
